@@ -1,0 +1,10 @@
+License Terms
+Use of the Monte Media Library is free for all uses (non-commercial, commercial and educational) under the terms of Creative Commons Attribution 3.0 (CC BY 3.0).
+
+Attribution: Please leave an attribution to me in the source files.
+
+If you have a feature request, or if you want to honour my work, send me a donation or an Amazon gift card.
+
+- Werner Randelshofer
+Source: http://www.randelshofer.ch/monte/index.html
+Contact: werner.randelshofer@bluewin.ch
