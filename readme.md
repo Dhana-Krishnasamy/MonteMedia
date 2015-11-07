@@ -6,5 +6,5 @@ I have copied this source file from http://www.randelshofer.ch/monte/files/Monte
 I have done no changes to any of the other files. All the credit goes go the author of the library (werner.randelshofer@bluewin.ch).
 
 ## License
-The author has released his work under Commons Attribution 3.0. Refer to the license.txt or http://www.randelshofer.ch/monte/index.html for full details.
+http://www.randelshofer.ch/monte/license.html
 pom.xml is released under apache 2.0 license.
